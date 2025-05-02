@@ -10,15 +10,15 @@ Passionate fullstack developer with expertise in modern JavaScript ecosystems. I
 
 
 
-<img align="right" height="148" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa29qMXFmZG4zODl2emF1eDBvMTF1bXlqMXN1NjJha3Z4Z255d2V0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FhOso6pO7MemfIGaPb/giphy.gif"/>
-<img align="right" height="148" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHN4NGxmNjgxajFiOHp0MjU0Nzg2bmwxNDExYm9mNGczemFwYmdiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0g5AHXflP4SqvQr1ir/giphy.gif"/>
+<img align="right" height="146" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa29qMXFmZG4zODl2emF1eDBvMTF1bXlqMXN1NjJha3Z4Z255d2V0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FhOso6pO7MemfIGaPb/giphy.gif"/>
+<img align="right" height="146" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHN4NGxmNjgxajFiOHp0MjU0Nzg2bmwxNDExYm9mNGczemFwYmdiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0g5AHXflP4SqvQr1ir/giphy.gif"/>
 
-<img align="right" height="148" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDAwdnB4OWNrZ2J4ZmJuZmgxZHM0dXBkcnhjbDMyOXJ5dm16dWIxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X9GtLKeqz3KOevGcCI/giphy.gif"/>
+<img align="right" height="146" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDAwdnB4OWNrZ2J4ZmJuZmgxZHM0dXBkcnhjbDMyOXJ5dm16dWIxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X9GtLKeqz3KOevGcCI/giphy.gif"/>
 
-<img align="right" height="148" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajR6Y3l3YWxranQ4eGdndnlldXpkdjYzNDl3MnUwd2NrYTk3OXMwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rWvv531R4FmtL9tHfw/giphy.gif"/>
+<img align="right" height="146" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajR6Y3l3YWxranQ4eGdndnlldXpkdjYzNDl3MnUwd2NrYTk3OXMwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rWvv531R4FmtL9tHfw/giphy.gif"/>
 
-<img align="right" height="148" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTV2NjBjbXE2MDUwcGRhNWQ1YmNwN3NodXd1OXlrdHJ5ZjVuNGlpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CctSqCX2ApoEOV4eYG/giphy.gif"/>
-<img align="right" height="148" src="https://media.giphy.com/media/Y3h4cLfCDNKHVb8Uog/giphy.gif"/>
+<img align="right" height="146" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTV2NjBjbXE2MDUwcGRhNWQ1YmNwN3NodXd1OXlrdHJ5ZjVuNGlpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CctSqCX2ApoEOV4eYG/giphy.gif"/>
+<img align="right" height="146" src="https://media.giphy.com/media/Y3h4cLfCDNKHVb8Uog/giphy.gif"/>
 
 
 <picture>
